@@ -16,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hm-isahaq-6b1593132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hm-isahaq-6b1593132" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23309858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23309858" height="30" width="40" /></a>
+<a href="https://fb.com/hm.isahaq.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hm.isahaq.2024" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
