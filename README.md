@@ -1,208 +1,259 @@
-# 👋 Hi there, I'm **Isahaq**
-
 <div align="center">
 
-### 🚀 Full Stack Developer | ERP Solutions | Spring Boot Architect
-**🇧🇩 Building scalable enterprise applications from Bangladesh**
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Isahaq&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ERP%20Architect%20%7C%20OSS%20Author&descAlignY=60&descSize=18" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=isahaq1&label=Profile%20views&color=00d9ff&style=flat-square&label_color=1a1a2e)](https://github.com/isahaq1)
-[![GitHub followers](https://img.shields.io/github/followers/isahaq1?label=Followers&style=flat-square&color=00d9ff&labelColor=1a1a2e)](https://github.com/isahaq1?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/isahaq1?label=Total%20Stars&style=flat-square&color=00d9ff&labelColor=1a1a2e)](https://github.com/isahaq1?tab=stars)
+<!-- Typing Animation -->
+<a href="https://github.com/isahaq1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+ERP+Systems+%F0%9F%8F%A2;Spring+Boot+%2B+Microservices+Architect+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Full+Stack+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=isahaq1&label=Profile%20views&color=00d9ff&style=flat-square&label_color=0d1117)](https://github.com/isahaq1)
+[![GitHub followers](https://img.shields.io/github/followers/isahaq1?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/isahaq1?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/isahaq1?label=Total%20Stars&style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/isahaq1?tab=stars)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<!-- About Section -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm a **passionate full-stack developer** specializing in enterprise-level applications, RESTful APIs, and modern cloud solutions. Currently focused on **ERP system development** and mastering **Spring Boot** for scalable backend architecture.
+### 👨‍💻 About Me
 
+```yaml
+name: Isahaq
+location: Bangladesh 🇧🇩
+role: Full Stack Developer & ERP Architect
+focus:
+  - ERP Development & Microservices
+  - Spring Boot + Cloud Architecture
+  - Open Source Library Author
+learning:
+  - Apache Kafka & Kubernetes
+  - AWS Solutions Architecture
+  - Distributed Systems Design
+contact: hmisahaq01@gmail.com
 ```
-💼 Current Focus     → ERP Development & Microservices
-📚 Learning          → Spring Boot, Kafka, Kubernetes
-🚀 Passion           → Full Stack Development, Cloud Architecture
-💬 Ask me about      → Node.js, React, System Design, Database Optimization
-🎯 Goal              → Building world-class enterprise solutions
-📧 Let's Connect     → hmisahaq01@gmail.com
-```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technology Expertise
-
-### Frontend Technologies
-```
-Frontend Architecture: React • Next.js • Vue.js • TypeScript
-Styling & Design: Tailwind CSS • Bootstrap • SCSS • Material UI
-State Management: Redux • Context API • Zustand • Recoil
-Testing: Jest • React Testing Library • Cypress
-```
-
-| Category | Technologies |
-|----------|--------------|
-| **Core Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
-| **Frameworks** | React, Next.js, Vue.js |
-| **Styling** | Tailwind CSS, Bootstrap, SCSS, CSS-in-JS |
-| **State Mgmt** | Redux, Context API, Zustand |
-| **Tools** | Webpack, Vite, Babel, ESLint, Prettier |
-
-### Backend Technologies
-```
-Backend Frameworks: Node.js/Express • NestJS • Spring Boot • Laravel
-Architecture: Microservices • REST APIs • GraphQL • gRPC
-Authentication: JWT • OAuth2 • Session Management
-Caching & Messaging: Redis • RabbitMQ • Apache Kafka
-```
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | JavaScript (Node.js), Java, PHP, Python (basics) |
-| **Frameworks** | Express, NestJS, Spring, Spring Boot, Laravel |
-| **APIs** | REST, GraphQL, WebSocket, gRPC |
-| **Real-time** | Socket.io, WebSockets, Server-Sent Events |
-
-### Database & Data Technologies
-```
-Relational: MySQL • PostgreSQL • MS SQL Server • Oracle
-NoSQL: MongoDB • Firebase Firestore • DynamoDB
-Caching: Redis • Memcached
-Data Pipeline: Kafka • RabbitMQ • AWS SQS
-```
-
-| Database Type | Technologies |
-|---------------|--------------|
-| **SQL** | MySQL, PostgreSQL, MS SQL Server, Oracle, SQLite |
-| **NoSQL** | MongoDB, Firebase, DynamoDB |
-| **Search** | Elasticsearch, Solr |
-| **Caching** | Redis, Memcached |
-
-### DevOps & Infrastructure
-```
-Containerization: Docker • Kubernetes • Docker Compose
-Cloud Platforms: AWS (EC2, S3, Lambda, RDS) • Google Cloud
-CI/CD: Jenkins • GitHub Actions • GitLab CI • Travis CI
-Monitoring: Prometheus • ELK Stack • CloudWatch
-```
-
-| Category | Technologies |
-|----------|--------------|
-| **Containers** | Docker, Kubernetes, Docker Compose |
-| **Cloud** | AWS, Google Cloud, Azure (basics) |
-| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
-| **IaC** | Terraform, CloudFormation, Docker |
-
-### Tools & Utilities
-```
-Version Control: Git • GitHub • GitLab • Bitbucket
-API Testing: Postman • Insomnia • REST Client
-Development: VS Code • IntelliJ IDEA • Docker • Git
-Project Mgmt: Jira • Trello • GitHub Projects • Confluence
-```
-
----
-
-## 📊 GitHub Statistics
+## 🌟 Open Source Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isahaq1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0&icon_color=00d9ff)
+<!-- OSS Package Cards -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=isahaq1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0)
+### 📦 [`isahaq/barcode`](https://packagist.org/packages/isahaq/barcode)
+![Packagist Version](https://img.shields.io/packagist/v/isahaq/barcode?style=flat-square&color=00d9ff&labelColor=0d1117)
+![Packagist Downloads](https://img.shields.io/packagist/dt/isahaq/barcode?style=flat-square&color=00d9ff&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isahaq1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=a0aec0&sideNums=a0aec0&currStreakLabel=a0aec0&sideLabels=a0aec0&dates=a0aec0)
+> 🔲 A powerful **PHP barcode generation** library. Supports multiple barcode formats — Code128, QR, EAN, UPC and more. Built for Laravel & standalone PHP projects.
+
+```bash
+composer require isahaq/barcode
+```
+[![Packagist](https://img.shields.io/badge/View%20on%20Packagist-F28D1A?style=flat-square&logo=composer&logoColor=white)](https://packagist.org/packages/isahaq/barcode)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [`isahaq/num2str`](https://packagist.org/packages/isahaq/num2str)
+![Packagist Version](https://img.shields.io/packagist/v/isahaq/num2str?style=flat-square&color=00d9ff&labelColor=0d1117)
+![Packagist Downloads](https://img.shields.io/packagist/dt/isahaq/num2str?style=flat-square&color=00d9ff&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+> 🔢 Convert **numbers to words** in PHP with multi-language support. Perfect for invoices, cheques, and financial applications. Supports Bengali & English.
+
+```bash
+composer require isahaq/num2str
+```
+[![Packagist](https://img.shields.io/badge/View%20on%20Packagist-F28D1A?style=flat-square&logo=composer&logoColor=white)](https://packagist.org/packages/isahaq/num2str)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📦 [`@isahaq/numbertostring`](https://www.npmjs.com/package/@isahaq/numbertostring)
+![npm version](https://img.shields.io/npm/v/@isahaq/numbertostring?style=flat-square&color=00d9ff&labelColor=0d1117)
+![npm downloads](https://img.shields.io/npm/dt/@isahaq/numbertostring?style=flat-square&color=00d9ff&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+> 🔢 The **npm edition** of the number-to-string converter. Works in Node.js and browser environments. Full TypeScript support. Zero dependencies.
+
+```bash
+npm install @isahaq/numbertostring
+```
+[![npm](https://img.shields.io/badge/View%20on%20npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@isahaq/numbertostring)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎓 Core Competencies
+## 🛠️ Tech Stack
 
-### Architecture & Design Patterns
-- **Microservices Architecture** - Service-oriented design, API gateways, service mesh
-- **Design Patterns** - MVC, Repository, Factory, Observer, Singleton, Strategy
-- **Clean Code** - SOLID principles, DRY, KISS, Refactoring techniques
-- **System Design** - Scalability, High availability, Load balancing, Caching strategies
+<div align="center">
 
-### Full Stack Capabilities
-- **Frontend Development** - Responsive design, Performance optimization, SEO
-- **Backend Development** - REST APIs, Database optimization, Security
-- **DevOps** - Docker, Kubernetes, CI/CD pipelines, Monitoring
-- **Database Design** - Schema design, Indexing, Query optimization, Normalization
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Security & Best Practices
-- **Authentication** - JWT, OAuth2, SAML, Multi-factor authentication
-- **Authorization** - Role-based access control (RBAC), Permissions management
-- **Data Security** - Encryption, Secure data storage, PCI-DSS compliance
-- **Web Security** - XSS prevention, CSRF protection, SQL injection prevention
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
----
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## 🚀 Featured Projects & Experience
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Enterprise ERP System
-- Built comprehensive ERP modules (Finance, HR, Inventory, Supply Chain)
-- Microservices architecture with 15+ interconnected services
-- Real-time data sync using Apache Kafka
-- 99.9% uptime with Kubernetes orchestration
-- **Tech Stack**: Spring Boot, React, PostgreSQL, Kafka, Kubernetes
-
-### E-Commerce Platform
-- Full-stack development with 500K+ monthly users
-- Advanced search with Elasticsearch
-- Payment integration (Stripe, bKash, Nagad)
-- Real-time inventory management
-- **Tech Stack**: Node.js, React, MongoDB, Redis, AWS
-
-### Real-time Analytics Dashboard
-- Data visualization with 50+ interactive charts
-- WebSocket-based live updates
-- Complex data aggregation and reporting
-- Custom ETL pipeline
-- **Tech Stack**: Next.js, D3.js, TypeScript, PostgreSQL, Kafka
+</div>
 
 ---
 
-## 💡 What I'm Currently Working On
+## 📊 GitHub Stats
 
-- 🏢 **ERP Development** - Building scalable enterprise resource planning systems
-- 📖 **Spring Boot Mastery** - Deep dive into Spring Boot, Spring Cloud, and Microservices
-- 🔄 **Microservices Architecture** - Designing and implementing distributed systems
-- ☁️ **AWS Cloud** - Certification and advanced cloud-native development
-- 🧠 **System Design** - Scaling applications to handle millions of users
-- 🔐 **Security** - Implementing enterprise-grade security practices
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=isahaq1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0&icon_color=00d9ff&ring_color=00d9ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=isahaq1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=a0aec0&sideNums=a0aec0&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=a0aec0" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=isahaq1&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=a0aec0" />
+
+</div>
 
 ---
 
-## 📈 Skills Proficiency Matrix
+## 📈 Skills Proficiency
 
-### Languages
-| Language | Proficiency | Experience |
-|----------|-------------|------------|
-| JavaScript | ⭐⭐⭐⭐⭐ | 6+ years |
-| TypeScript | ⭐⭐⭐⭐⭐ | 4+ years |
-| Java | ⭐⭐⭐⭐ | 3+ years |
-| PHP | ⭐⭐⭐⭐ | 4+ years |
-| Python | ⭐⭐⭐ | 2+ years |
-| SQL | ⭐⭐⭐⭐⭐ | 6+ years |
+```text
+JavaScript / TypeScript  ████████████████████  100%  6+ years
+SQL & Databases          ████████████████████  100%  6+ years
+React / Next.js          ████████████████████  100%  5+ years
+Node.js / Express        ███████████████████░   95%  5+ years
+Spring Boot (Java)       ████████████████░░░░   80%  3+ years
+Docker & Kubernetes      ████████████████░░░░   80%  2-4 years
+AWS Cloud                ███████████████░░░░░   75%  3+ years
+PHP / Laravel            ████████████████░░░░   80%  4+ years
+Apache Kafka             ████████████░░░░░░░░   60%  2+ years
+Python                   ██████████░░░░░░░░░░   50%  2+ years
+```
 
-### Frameworks & Libraries
-| Framework | Proficiency | Use Cases |
-|-----------|-------------|-----------|
-| React | ⭐⭐⭐⭐⭐ | SPAs, Real-time dashboards |
-| Node.js/Express | ⭐⭐⭐⭐⭐ | REST APIs, Backend services |
-| Spring Boot | ⭐⭐⭐⭐ | Enterprise applications |
-| Next.js | ⭐⭐⭐⭐⭐ | Full-stack web apps |
-| NestJS | ⭐⭐⭐⭐ | Scalable backends |
-| Laravel | ⭐⭐⭐⭐ | Web applications |
+---
 
-### DevOps & Infrastructure
-| Tool | Proficiency | Experience |
-|------|-------------|------------|
-| Docker | ⭐⭐⭐⭐⭐ | 4+ years |
-| Kubernetes | ⭐⭐⭐⭐ | 2+ years |
-| AWS | ⭐⭐⭐⭐ | 3+ years |
-| CI/CD | ⭐⭐⭐⭐ | 4+ years |
-| Nginx | ⭐⭐⭐⭐ | 3+ years |
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Enterprise ERP System
+> Comprehensive ERP with Finance, HR, Inventory & Supply Chain modules
+
+- ⚙️ 15+ microservices via **Apache Kafka**
+- 📈 **99.9% uptime** on Kubernetes
+- 🔄 Real-time data sync & event sourcing
+
+`Spring Boot` `React` `PostgreSQL` `Kafka` `K8s`
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+> Full-stack platform serving 500K+ monthly users
+
+- 🔍 Advanced search with **Elasticsearch**
+- 💳 Multi-payment: Stripe, bKash, Nagad
+- ⚡ Real-time inventory management
+
+`Node.js` `React` `MongoDB` `Redis` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Real-time Analytics Dashboard
+> Data visualization with 50+ interactive charts
+
+- 📡 **WebSocket** live data updates
+- 🔄 Custom ETL pipeline
+- 📉 Complex data aggregation & reporting
+
+`Next.js` `D3.js` `TypeScript` `PostgreSQL` `Kafka`
+
+</td>
+<td width="50%">
+
+### 🔐 Auth & Identity Service
+> Enterprise-grade authentication microservice
+
+- 🛡️ JWT + OAuth2 + SAML support
+- 👥 RBAC permissions management
+- 🔒 MFA & PCI-DSS compliant
+
+`Spring Security` `Redis` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 | 🎓 | 💪 | 🌟 |
+|---|---|---|---|
+| Top ERP Contributor | Cloud Architecture | OSS Package Author | Open Source Contributor |
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] 🏅 AWS Solutions Architect Certification
+- [ ] 🚀 Scale OSS packages to 10K+ downloads
+- [ ] 🧩 Build a SaaS product for 100K+ users
+- [ ] 🎤 Speak at a tech conference
+- [ ] 📝 Publish 12+ technical blog posts
+- [ ] 🤝 Mentor 5+ junior developers
 
 ---
 
@@ -215,47 +266,23 @@ Project Mgmt: Jira • Trello • GitHub Projects • Confluence
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isahaq1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmisahaq01@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hm.isahaq.2024)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/isahaq/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~isahaq)
 
 </div>
 
 ---
 
-## 🎯 Professional Goals
-
-- ✅ Master Spring Boot and microservices architecture
-- ✅ Achieve AWS Solutions Architect certification
-- ✅ Build a SaaS product serving 100K+ users
-- ✅ Contribute to open-source projects
-- ✅ Mentor junior developers
-- ✅ Speak at tech conferences
-
----
-
 <div align="center">
 
-### 📝 Latest Blog Posts
-<!-- BEGIN GITHUB_POSTS -->
-- 🚀 [Building Scalable Microservices with Spring Boot](https://your-blog.com)
-- 💡 [React Performance Optimization Techniques](https://your-blog.com)
-- 🔧 [Docker & Kubernetes: A Practical Guide](https://your-blog.com)
-<!-- END GITHUB_POSTS -->
+### 💬 Quote I Live By
 
-### 🏆 Achievements
-- 🥇 Top Contributor in ERP Development
-- 🎓 Cloud Architecture Enthusiast
-- 💪 Problem Solver & Code Reviewer
-- 🌟 Open Source Contributor
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
----
+<br/>
 
-### ⭐ If you find my work valuable, please consider:
-- ⭐ Starring my repositories
-- 🔗 Connecting on LinkedIn
-- 💬 Sharing feedback and suggestions
-- 🤝 Collaborating on exciting projects
+**⭐ Star my repos if you find them useful — it keeps me going! 🚀**
 
-**Let's build something extraordinary together!** 🚀
-
-<img src="https://komarev.com/ghpvc/?username=isahaq1&style=flat-square&color=00d9ff" align="center" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
