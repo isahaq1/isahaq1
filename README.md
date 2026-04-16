@@ -246,7 +246,7 @@ Python                   ██████████░░░░░░░░�
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🏅 AWS Solutions Architect Certification
 - [ ] 🚀 Scale OSS packages to 10K+ downloads
